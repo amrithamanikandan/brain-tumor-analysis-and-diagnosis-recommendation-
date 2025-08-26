@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+</head>
+<body>
+    <h2>Prediction Result</h2>
+    
+    <!-- Display prediction result (for tumor detection or disease recommendations) -->
+    <p>{{ prediction }}</p>
+
+    <!-- Display recommendations for either tumor or disease if available -->
+    {% if recommendations %}
+        <h3>Recommended Treatment:</h3>
+        <ul>
+            <!-- For tumor detection -->
+            {% if recommendations.Best_Treatment %}
+                <li>Treatment: {{ recommendations.Best_Treatment }}</li>
+                <li>Hospital: {{ recommendations.Hospital }}</li>
+                <li>Doctor: {{ recommendations.Doctor }}</li>
+                {% if recommendations.Cost %}
+                    <li>Cost: {{ recommendations.Cost }}</li>
+                {% endif %}
+            {% else %}
+                <!-- For general disease recommendations (like Diabetes) -->
+                <li>Treatments: 
+                    <ul>
+                        {% for treatment in recommendations.Treatments %}
+                            <li>{{ treatment }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                <li>Hospitals:
+                    <ul>
+                        {% for hospital in recommendations.Hospitals %}
+                            <li>{{ hospital }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                <li>Doctors:
+                    <ul>
+                        {% for doctor in recommendations.Doctors %}
+                            <li>{{ doctor }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endif %}
+        </ul>
+    {% endif %}
+
+    <!-- Display uploaded image if MRI analysis was done -->
+    {% if filename %}
+    <h3>Uploaded Image:</h3>
+    <img src="{{ url_for('uploaded_file', filename=filename) }}" alt="MRI Image" style="max-width:400px;">
+    {% endif %}
+</body>
+</html>

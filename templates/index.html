@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brain Tumor Detection</title>
+</head>
+<body>
+    <h2>Brain Tumor Detection and Treatment Recommendations</h2>
+    
+    <!-- Form to upload image or input disease name -->
+    <form method="POST" enctype="multipart/form-data" action="/predict">
+        <h3>Upload an MRI Image for Brain Tumor Detection:</h3>
+        <input type="file" name="file">
+        <br><br>
+        <input type="submit" value="Submit">
+
+        <h3>OR</h3>
+        
+        <h3>Enter a Disease Name for Recommendations:</h3>
+        <input type="text" name="disease_name" placeholder="Enter disease name" value="{{ disease_name }}">
+        <br><br>
+        
+        <!-- Submit button for the form -->
+        <input type="submit" value="Submit">
+    </form>
+
+    <!-- Show errors if any -->
+    {% if error %}
+    <p style="color: red;">{{ error }}</p>
+    {% endif %}
+</body>
+</html>

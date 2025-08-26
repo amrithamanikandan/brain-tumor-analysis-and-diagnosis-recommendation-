@@ -1,0 +1,71 @@
+"Disease	",Specialist Doctor,Hospital,Best Treatement 
+"Tuberculosis	",Dr. Rajesh Desai,"AIIMS, Delh",Antitubercular therapy (ATT)
+"Dengue	",Dr. Anjali Gupta,"Fortis Hospital, Mumbai","Supportive care, Fluid replacement"
+Malaria,Dr. Prakash Nair,"Apollo Hospital, Chennai",Antimalarial medications
+Diabetes,Dr. Rekha Sharma,"Max Hospital, Delhi","Insulin therapy, Oral hypoglycemics"
+Hypertension,Dr. Amit Malhotra,"Medanta, Gurgaon",Antihypertensive drugs
+Asthma,Dr. Sanjay Singh,"Hinduja Hospital, Mumbai","Inhalers, Bronchodilators"
+HIV/AIDS,Dr. Shalini Aggarwal,"AIIMS, Delhi",Antiretroviral therapy (ART)
+Coronary Artery Disease,Dr. Mohan Reddy,"Narayana Hrudayalaya, Bangalore","Angioplasty, CABG (Bypass surgery)"
+Chronic Kidney Disease,Dr. Neha Joshi,"Manipal Hospital, Bangalore","Dialysis, Kidney transplant"
+Breast Cancer,Dr. Sunita Malhotra,"Tata Memorial Hospital, Mumbai","Surgery, Chemotherapy, Radiation"
+Hepatitis B,Dr. Suresh Kumar,"	AIIMS, Delhi",Antiviral medications
+Rheumatoid Arthritis,Dr. Kavita Sharma,"Fortis Hospital, Delhi","DMARDs, Biologics"
+Thyroid Disorders,Dr. Priya Sen,"Apollo Hospital, Kolkata",Thyroid hormone replacement therapy
+Epilepsy,Dr. Vikram Patel,"NIMHANS, Bangalore",Antiepileptic drugs (AEDs)
+Stroke,Dr. Ajay Kumar,"AIIMS, Delhi","Thrombolysis, Rehabilitation therapy"
+Chronic Obstructive Pulmonary Disease (COPD),Dr. Rakesh Jain,"Medanta, Gurgaon","Bronchodilators, Inhaled steroids"
+Psoriasis,Dr. Anil Sharma,"AIIMS, Delhi","Topical treatments, Phototherapy"
+Osteoporosis,Dr. Meena Gupta,"Fortis Hospital, Delhi","Bisphosphonates, Calcium/Vitamin D"
+Leprosy,Dr. Arvind Kumar,"AIIMS, Delhi",Multidrug therapy (MDT)
+Liver Cirrhosis,Dr. Sneha Reddy,"Apollo Hospital, Hyderabad","Lifestyle changes, Medications"
+Peptic Ulcer Disease,Dr. Rohit Sharma,"Fortis Hospital, Mumbai	",Proton pump inhibitors (PPIs)
+"Parkinson's Disease	",Dr. Anil Kumar,"NIMHANS, Bangalore","Levodopa, Dopamine agonists"
+"Schizophrenia	",Dr. Swati Desai,"AIIMS, Delhi",Antipsychotic medications
+"Bipolar Disorder	",Dr. Vinay Joshi,"NIMHANS, Bangalore","Mood stabilizers, Antipsychotics"
+"Obesity	",Dr. Sanjay Verma,"Apollo Hospital, Delhi","Lifestyle changes, Bariatric surgery"
+"Alzheimer's Disease	",Dr. Meera Reddy,"AIIMS, Delhi","Cholinesterase inhibitors, Memantine"
+"Gout	",Dr. Ankur Jain,"Fortis Hospital, Mumbai","NSAIDs, Colchicine, Allopurinol"
+"Glaucoma	",Dr. Preeti Singh,"AIIMS, Delhi","Eye drops, Surgery"
+"Cataract	",Dr. Rajeev Kapoor,"Apollo Hospital, Chennai",Cataract surgery
+"Prostate Cancer	",Dr. Ramesh Gupta,"Tata Memorial Hospital, Mumbai","Surgery, Radiation therapy"
+"Pancreatitis	",Dr. Arvind Patel,"AIIMS, Delhi","Enzyme supplements, Pain management"
+"Hemophilia	",Dr. Kiran Shah,"Fortis Hospital, Delhi",Clotting factor replacement therapy
+"Celiac Disease	",Dr. Swati Kapoor,"Apollo Hospital, Hyderabad",Gluten-free diet
+"Lupus	",Dr. Pradeep Mehta,"AIIMS, Delhi","Immunosuppressants, Steroids"
+"Multiple Sclerosis			",Dr. Nidhi Agarwal,"NIMHANS, Bangalore",Disease-modifying therapie
+"Aplastic Anemia			",Dr. Manish Sinha,"AIIMS, Delhi","Blood transfusions, Bone marrow transplant"
+"Crohn's Disease	",Dr. Varun Shetty,"Fortis Hospital, Mumbai","Anti-inflammatory drugs, Immunosuppressants"
+"Ulcerative Colitis		",Dr. Pooja Gupta,"Apollo Hospital, Chennai","Aminosalicylates, Corticosteroids"
+"Chronic Fatigue Syndrome			",Dr. Ritu Verma,"AIIMS, Delhi","Cognitive behavioral therapy, Medication"
+"Polycystic Ovary Syndrome (PCOS)		",Dr. Neha Singh,"Fortis Hospital, Delhi",
+Migraine,Dr. Kiran Bhatia,"AIIMS, Delhi","Triptans, Preventive medications"
+Vertigo,Dr. Anil Verma,"Apollo Hospital, Mumbai","Vestibular rehabilitation, Medications"
+Erectile Dysfunction,Dr. Sanjay Mehta,"AIIMS, Delhi","PDE5 inhibitors, Lifestyle changes"
+Infertility,Dr. Richa Sharma,"Fortis Hospital, Delhi","IVF, Medications"
+Varicose Veins,Dr. Ajay Gupta,"AIIMS, Delhi","Sclerotherapy, Laser treatments"
+Gallstones,Dr. Ramesh Kumar,"Apollo Hospital, Chennai",Cholecystectomy
+Psoriatic Arthritis,Dr. Deepak Sharma,"AIIMS, Delhi","NSAIDs, DMARDs"
+Obsessive-Compulsive Disorder (OCD),Dr. Sunil Kumar,"NIMHANS, Bangalore","SSRIs, Cognitive behavioral therapy"
+Panic Disorder,Dr. Rajesh Mehta,"AIIMS, Delhi","Antidepressants, Cognitive therapy"
+Anemia,Dr. Suman Gupta,"Fortis Hospital, Mumbai","Iron supplements, Dietary changes"
+Erectile Dysfunction,Dr. Vishal Sinha,"Apollo Hospital, Hyderabad","PDE5 inhibitors, Lifestyle changes"
+Sickle Cell Disease,Dr. Meera Sinha,"AIIMS, Delhi","Hydroxyurea, Blood transfusions"
+Lyme Disease,Dr. Ankit Kumar,"Fortis Hospital, Delhi",Antibiotics
+Eczema,Dr. Shilpa Verma,"AIIMS, Delhi","Topical corticosteroids, Moisturizers"
+Rosacea,Dr. Amit Gupta,"Apollo Hospital, Chennai","Topical treatments, Oral antibiotics"
+Huntington's Disease,Dr. Anjali Mehta,"NIMHANS, Bangalore","Tetrabenazine, Antipsychotics"
+Meniere's Disease,Dr. Anil Joshi,"AIIMS, Delhi","Diuretics, Vestibular rehabilitation"
+Trigeminal Neuralgia,Dr. Priya Sharma,"Fortis Hospital, Mumbai","Anticonvulsants, Surgery"
+Marfan Syndrome,Dr. Ramesh Nair,"AIIMS, Delhi","Beta-blockers, Surgery"
+Myasthenia Gravis,Dr. Arjun Mehta,"NIMHANS, Bangalore",Anticholinesterase medications
+Guillain-Barre Syndrome,Dr. Pooja Nair,"AIIMS, Delhi","Plasma exchange, Immunoglobulin therapy"
+Cystic Fibrosis,Dr. Sunil Verma,"Apollo Hospital, Hyderabad","Antibiotics, Chest physiotherapy"
+Wilson's Disease,Dr. Sneha Patel,"AIIMS, Delhi","Chelation therapy, Zinc acetate"
+Amyotrophic Lateral Sclerosis (ALS),Dr. Anil Kumar,"NIMHANS, Bangalore","Riluzole, Supportive care"
+Systemic Lupus Erythematosus,Dr. Pradeep Sharma,"AIIMS, Delhi","Immunosuppressants, Steroids"
+Hemochromatosis,Dr. Anjali Gupta,"Fortis Hospital, Delhi","Phlebotomy, Chelation therapy"
+Hyperthyroidism,Dr. Priya Sen,"Apollo Hospital, Kolkata","Antithyroid medications, Radioactive iodine"
+Hypothyroidism,Dr. Meena Gupta,"AIIMS, Delhi",Thyroid hormone replacement therapy
+Alopecia Areata,Dr. Rohit Sharma,"Fortis Hospital, Mumbai","Topical corticosteroids, Immunotherapy"
+Narcolepsy,Dr. KiranÿJain,NIMHANS,
